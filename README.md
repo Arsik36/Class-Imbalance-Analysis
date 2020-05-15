@@ -1,4 +1,4 @@
-# Class-Imbalance-Analysis
+# Class Imbalance Analysis
 Author: Arseniy Barmin
 
 ### Company introduction
