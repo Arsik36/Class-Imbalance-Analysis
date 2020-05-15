@@ -1,4 +1,5 @@
 # Class-Imbalance-Analysis
+Author: Arseniy Barmin
 
 ### Company Introduction
 This is an un-named company whose business model centers on scheduling customers to come in for a medical appointment.
