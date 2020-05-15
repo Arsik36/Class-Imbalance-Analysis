@@ -1,0 +1,15 @@
+﻿Column name,Column dictionary
+PatientId,Id number of each patient
+AppointmentID,Id number for each scheduled appointment
+Gender,Gender of each scheduled patient
+ScheduledDay,Full date of when each appointment was scheduled
+AppointmentDay,Full date for when each appountment was scheduled
+Age,Age of each scheduled customer
+Neighborhood,Neighborhood name where each scheduled customer resides
+Scholarship,"Whether a scheduled customer has been awarded a scholarship. 1 means yes, they have been awarded a scholarship"
+Hipertension,"Whether a scheduled customer has hipertension. 1 indicates yes, customer has hipertension"
+Diabetes,"Whether a scheduled customer has hipertension. 1 means yes, customer has diabetes"
+Alcoholism,"Whether a scheduled customer experiences alcoholism. 1 means yes, customer suffers from alcoholism"
+Handicap,"Whether a scheduled customer is handicapped. 1 means yes, a customer is handicapped"
+SMS_received,"Whether a customer received an SMS that confirms their appointment was scheduled. 1 means yes, they received an SMS confirmation for their booked appointment"
+No-show,"Indicated wheter a customer showed up for their scheduled appointment. ""Yes"" means a customer did not show up for their scheduled appointment"
